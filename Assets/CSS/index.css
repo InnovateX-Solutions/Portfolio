@@ -188,6 +188,12 @@ font-size: 1rem;
 
     }
 }
+@media (min-width : 1600px) {
+    .uppr-text{
+        transform: translateY(12rem)!important;
+        margin-bottom: 25px;
+    }
+}
 #navbar-container label{
     color: black;
 }
